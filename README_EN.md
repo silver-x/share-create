@@ -1,6 +1,20 @@
 # Share Create Platform
 
-Share Create is a Web3-based social sharing platform that integrates SUI blockchain functionality, allowing users to create, share content, and interact with others.
+## Project Vision
+
+Share Create is an innovative Web3 social sharing platform dedicated to building an open and permanent creative sharing ecosystem. On this platform, users can:
+
+- Share unique creative ideas and project concepts
+- Find like-minded collaborators
+- Participate in interesting project development
+- Ensure creative permanence through blockchain technology
+
+Our core philosophy is: **Preserve Creativity, Enable Boundless Collaboration**. By storing creative content on the SUI blockchain, we ensure:
+
+1. **Creative Permanence**: Valuable creative ideas won't be lost even if a community or platform shuts down
+2. **Cross-community Collaboration**: Users from different communities can seamlessly participate and contribute
+3. **Transparency and Trust**: Blockchain technology ensures traceability of creative ownership and contribution records
+4. **Open Ecosystem**: Anyone can build upon these creative ideas for secondary development or innovation
 
 ## Project Structure
 
